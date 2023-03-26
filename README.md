@@ -11,7 +11,7 @@
 
 {"descriptionCam":"RT Doc Tv est une chaîne télévisée spécialisée au documentaires et autres.","sourceCam":["http://193.111.244.35:8001/rtdoc/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODY1NjM1NDFf/rtdoc.jpg","titleCam":"RT DOC"},
 
-{"descriptionCam":"Crime Invest Tv est une chaîne télévisée spécialisée aux crimes Divertissements et autres.","sourceCam":["http://89.187.175.143/3088/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM1Mjg3NjVf/CrimeInvestigation.png","titleCam":"CRIME INVEST TV"},
+{"descriptionCam":"Crime Invest Tv est une chaîne télévisée spécialisée aux crimes Divertissements et autres.","sourceCam":["https://alliantcontent-truecrimenow-3-nz.samsung.wurl.tv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM1Mjg3NjVf/CrimeInvestigation.png","titleCam":"CRIME INVEST TV"},
 
 {"descriptionCam":"Travel Channel Tv est une chaîne télévisée spécialisée aux crimes Divertissements et autres.","sourceCam":["http://89.187.175.143/3039/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM1MjkyNDdf/travelchanne.webp","titleCam":"TRAVEL CHANNEL TV"},
 
