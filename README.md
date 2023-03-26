@@ -1,7 +1,7 @@
 # divertissement
 {"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"TLC est une chaîne télévisée spécialisée au Divertissements et autres.","sourceCam":["https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI3Mzhf/tlc.png","titleCam":"TLC"},
 
-{"descriptionCam":"Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/9326/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI0ODJf/discoverscience.png","titleCam":"DISCOVERY HD"},
+{"descriptionCam":"Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["https://gdlmovies.tech/Discovery+/api/Discovery_Channel.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI0ODJf/discoverscience.png","titleCam":"DISCOVERY HD"},
 
 {"descriptionCam":"Discovery est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://123.30.146.172:21585/531/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg","titleCam":"DISCOVERY"},
 
