@@ -1,9 +1,11 @@
 # divertissement
 {"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"TLC est une chaîne télévisée spécialisée au Divertissements et autres.","sourceCam":["https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI3Mzhf/tlc.png","titleCam":"TLC"},
 
+{"descriptionCam":"TLC est une chaîne télévisée spécialisée au Divertissements et autres.","sourceCam":["http://54.39.17.6:8080/tele5/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI3Mzhf/tlc.png","titleCam":"TLC / LIEN 2"},
+
 {"descriptionCam":"Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["https://gdlmovies.tech/Discovery+/api/Discovery_Channel.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI0ODJf/discoverscience.png","titleCam":"DISCOVERY HD"},
 
-{"descriptionCam":"Discovery est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://123.30.146.172:21585/531/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg","titleCam":"DISCOVERY"},
+{"descriptionCam":"Discovery est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://178.170.42.126/DISCOVERYSCIENCE/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg","titleCam":"DISCOVERY"},
 
 {"descriptionCam":"Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://193.111.244.35:8001/discoveryback/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI0ODJf/discoverscience.png","titleCam":"DISCOVERY SCIENCE"},
 
