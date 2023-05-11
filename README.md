@@ -17,4 +17,4 @@
 
 {"descriptionCam":"Travel Channel Tv est une chaîne télévisée spécialisée aux crimes Divertissements et autres.","sourceCam":["http://89.187.175.143/3039/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM1MjkyNDdf/travelchanne.webp","titleCam":"TRAVEL CHANNEL TV"},
 
-{"descriptionCam":"Discovery Turbo est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://50.7.237.4:8080/DISCOVERYTURBO/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI1MTRf/discoverturbo.jpg","titleCam":"DISCOVERY TURBO"}]}]}
+{"descriptionCam":"Discovery Turbo est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["https://youzontv-app.tk/discovery%2B/Discovery_Turbo.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI1MTRf/discoverturbo.jpg","titleCam":"DISCOVERY TURBO"}]}]}
