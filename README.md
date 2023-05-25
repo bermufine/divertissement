@@ -17,4 +17,8 @@
 
 {"descriptionCam":"Travel Channel Tv est une chaîne télévisée spécialisée aux crimes Divertissements et autres.","sourceCam":["http://89.187.175.143/3039/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM1MjkyNDdf/travelchanne.webp","titleCam":"TRAVEL CHANNEL TV"},
 
-{"descriptionCam":"Discovery Turbo est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["https://youzontv-app.tk/discovery%2B/Discovery_Turbo.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI1MTRf/discoverturbo.jpg","titleCam":"DISCOVERY TURBO"}]}]}
+{"descriptionCam":"Discovery Turbo est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["https://youzontv-app.tk/discovery%2B/Discovery_Turbo.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI1MTRf/discoverturbo.jpg","titleCam":"DISCOVERY TURBO"},
+
+{"descriptionCam":"Real Stories TV est une chaîne télévisée du Chine spécialisée au Documentaires et autres.","sourceCam":["https://lds-realstories-samsungau.amagi.tv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODY2NTk3Mzdf/realstories.png","titleCam":"REAL STORIES TV"},
+
+{"descriptionCam":"Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["https://gdlmovies.tech/Discovery+/api/Discovery_Channel.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI0ODJf/discoverscience.png","titleCam":"DISCOVERY SCIENCE"}]}]}
