@@ -21,9 +21,9 @@
 
 {"descriptionCam":"ViaSat History Tv est une chaîne télévisée spécialisée au documentaires et autres.","sourceCam":["http://49.12.123.148:8989/49/hls/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODk1MDM5ODlf/viasathistory.png","titleCam":"VIASAT HISTORY"},
 
-{"descriptionCam":"SEASONS Tv est une chaîne télévisée spécialisée au documentaires et autres.","sourceCam":["https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODk1MDM5OTdf/seasons.jpg","titleCam":"SEASONS TV"},
+{"descriptionCam":"SEASONS Tv est une chaîne télévisée spécialisée au documentaires et autres.","sourceCam":["https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg","titleCam":"SEASONS TV"},
 
-{"descriptionCam":"SEASONS Tv est une chaîne télévisée spécialisée au documentaires et autres.","sourceCam":["https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODY1NjM1NDFf/rtdoc.jpg","titleCam":"SEASONS TV"},
+{"descriptionCam":"SEASONS Tv est une chaîne télévisée spécialisée au documentaires et autres.","sourceCam":["https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg","titleCam":"SEASONS TV"},
 
 {"descriptionCam":"Crime Invest Tv est une chaîne télévisée spécialisée aux crimes Divertissements et autres.","sourceCam":["https://alliantcontent-truecrimenow-3-nz.samsung.wurl.tv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM1Mjg3NjVf/CrimeInvestigation.png","titleCam":"CRIME INVEST TV"},
 
