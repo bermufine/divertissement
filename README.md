@@ -15,7 +15,7 @@
 
 {"descriptionCam":"Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://185.188.188.235/live/discoveryscience/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg","titleCam":"DISCOVERY SCIENCE"},
 
-{"descriptionCam":"Investigation Discovery Tv est une chaîne télévisée spécialisée aux documentaires des investigations and Divertissements et autres.","sourceCam":["https://youzontv-app.tk/discovery%2B/Investigation_Discovery.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM1Mjg2NTVf/investigationD.jpeg","titleCam":"INVESTIGATION DISCOVERY"},
+{"descriptionCam":"Investigation Discovery Tv est une chaîne télévisée spécialisée aux documentaires des investigations and Divertissements et autres.","sourceCam":["http://102.129.200.112:7070/CBS-Reality-HD/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM1Mjg2NTVf/investigationD.jpeg","titleCam":"INVESTIGATION DISCOVERY"},
 
 {"descriptionCam":"ViaSat Explorer Tv est une chaîne télévisée spécialisée au documentaires et autres.","sourceCam":["http://49.12.123.148:8989/51/hls/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODk1MDM5OTBf/viasatexplorer.jpeg","titleCam":"VIASAT EXOPLORER"},
 
