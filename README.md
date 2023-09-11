@@ -9,7 +9,7 @@
 
 {"descriptionCam":"Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["https://youzontv-app.tk/discovery%2B/Discovery_Science.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI0ODJf/discoverscience.png","titleCam":"DISCOVERY SCIENCE"},
 
-{"descriptionCam":"Discovery est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://176.222.190.76/btv/SWM/discovery_hd/discovery_hd.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg","titleCam":"DISCOVERY CHANNEL"},
+{"descriptionCam":"CBS Reality est une chaîne télévisée spécialisée aux Documentaires Border Patrol et autres.","sourceCam":["https://84.54.148.38/CBS_REALITY_SD/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg","titleCam":"CBS REALITY"},
 
 {"descriptionCam":"Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["https://sc.id-tv.kz:443/Disc_chHD_34_35.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI0ODJf/discoverscience.png","titleCam":"DISCOVERY SCIENCE 2"},
 
