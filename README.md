@@ -15,15 +15,13 @@
 
 {"descriptionCam":"Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://84.54.148.38/DISCOVERY_CHANNEL_SD/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg","titleCam":"DISCOVERY CHANNEL"},
 
-{"descriptionCam":"ViaSat History est une chaîne télévisée spécialisée au documentaires et autres.","sourceCam":["http://84.54.148.38/VIASAT_HISTORY_SD/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODk1MDM5ODlf/viasathistory.png","titleCam":"VIASAT HISTORY"},
-
 {"descriptionCam":"Investigation Discovery est une chaîne télévisée spécialisée aux documentaires des investigations and Divertissements et autres.","sourceCam":["http://102.129.200.112:7070/CBS-Reality-HD/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM1Mjg2NTVf/investigationD.jpeg","titleCam":"INVESTIGATION DISCOVERY"},
 
 {"descriptionCam":"ViaSat Explorer est une chaîne télévisée spécialisée au documentaires et autres.","sourceCam":["http://84.54.148.38/VIASAT_EXPLORER_SD/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODk1MDM5OTBf/viasatexplorer.jpeg","titleCam":"VIASAT EXOPLORER"},
 
 {"descriptionCam":"ViaSat History est une chaîne télévisée spécialisée au documentaires et autres.","sourceCam":["http://84.54.148.38/VIASAT_HISTORY_SD/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODk1MDM5ODlf/viasathistory.png","titleCam":"VIASAT HISTORY"},
 
-{"descriptionCam":"ViaSat Nature est une chaîne télévisée spécialisée au documentaires et autres.","sourceCam":["http://84.54.148.38/VIASAT_NATURE_SD/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODk1MDM5ODlf/viasathistory.png","titleCam":"VIASAT NATURE"},
+{"descriptionCam":"ViaSat Nature est une chaîne télévisée spécialisée au documentaires et autres.","sourceCam":["http://84.54.148.38/VIASAT_NATURE_SD/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTM3ODE5Nzlf/viasatnature.png","titleCam":"VIASAT NATURE"},
 
 {"descriptionCam":"SEASONS Tv est une chaîne télévisée spécialisée au documentaires et autres.","sourceCam":["https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg","titleCam":"SEASONS TV"},
 
