@@ -1,5 +1,7 @@
 # divertissement
-{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"TLC est une chaîne télévisée spécialisée au Divertissements et autres.","sourceCam":["https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI3Mzhf/tlc.png","titleCam":"TLC"},
+{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"CBS Reality est une chaîne télévisée spécialisée aux Documentaires Border Patrol et autres.","sourceCam":["http://84.54.148.38/CBS_REALITY_SD/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg","titleCam":"CBS REALITY"},
+
+{"descriptionCam":"TLC est une chaîne télévisée spécialisée au Divertissements et autres.","sourceCam":["https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI3Mzhf/tlc.png","titleCam":"TLC"},
 
 {"descriptionCam":"TLC Mexico est une chaîne télévisée spécialisée au Divertissements et autres.","sourceCam":["http://135.148.40.31:18000/TLC_MEXICO_HD/hls/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI3Mzhf/tlc.png","titleCam":"TLC /MEXICO"},
 
@@ -9,17 +11,19 @@
 
 {"descriptionCam":"Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["https://youzontv-app.tk/discovery%2B/Discovery_Science.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI0ODJf/discoverscience.png","titleCam":"DISCOVERY SCIENCE"},
 
-{"descriptionCam":"CBS Reality est une chaîne télévisée spécialisée aux Documentaires Border Patrol et autres.","sourceCam":["http://84.54.148.38/CBS_REALITY_SD/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg","titleCam":"CBS REALITY"},
-
 {"descriptionCam":"Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["https://sc.id-tv.kz:443/Disc_chHD_34_35.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI0ODJf/discoverscience.png","titleCam":"DISCOVERY SCIENCE 2"},
 
-{"descriptionCam":"Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://185.188.188.235/live/discoveryscience/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg","titleCam":"DISCOVERY SCIENCE"},
+{"descriptionCam":"Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://84.54.148.38/DISCOVERY_CHANNEL_SD/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg","titleCam":"DISCOVERY CHANNEL"},
 
-{"descriptionCam":"Investigation Discovery Tv est une chaîne télévisée spécialisée aux documentaires des investigations and Divertissements et autres.","sourceCam":["http://102.129.200.112:7070/CBS-Reality-HD/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM1Mjg2NTVf/investigationD.jpeg","titleCam":"INVESTIGATION DISCOVERY"},
+{"descriptionCam":"ViaSat History est une chaîne télévisée spécialisée au documentaires et autres.","sourceCam":["http://84.54.148.38/VIASAT_HISTORY_SD/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODk1MDM5ODlf/viasathistory.png","titleCam":"VIASAT HISTORY"},
 
-{"descriptionCam":"ViaSat Explorer Tv est une chaîne télévisée spécialisée au documentaires et autres.","sourceCam":["http://49.12.123.148:8989/51/hls/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODk1MDM5OTBf/viasatexplorer.jpeg","titleCam":"VIASAT EXOPLORER"},
+{"descriptionCam":"Investigation Discovery est une chaîne télévisée spécialisée aux documentaires des investigations and Divertissements et autres.","sourceCam":["http://102.129.200.112:7070/CBS-Reality-HD/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM1Mjg2NTVf/investigationD.jpeg","titleCam":"INVESTIGATION DISCOVERY"},
 
-{"descriptionCam":"ViaSat History Tv est une chaîne télévisée spécialisée au documentaires et autres.","sourceCam":["http://49.12.123.148:8989/49/hls/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODk1MDM5ODlf/viasathistory.png","titleCam":"VIASAT HISTORY"},
+{"descriptionCam":"ViaSat Explorer est une chaîne télévisée spécialisée au documentaires et autres.","sourceCam":["http://84.54.148.38/VIASAT_EXPLORER_SD/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODk1MDM5OTBf/viasatexplorer.jpeg","titleCam":"VIASAT EXOPLORER"},
+
+{"descriptionCam":"ViaSat History est une chaîne télévisée spécialisée au documentaires et autres.","sourceCam":["http://84.54.148.38/VIASAT_HISTORY_SD/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODk1MDM5ODlf/viasathistory.png","titleCam":"VIASAT HISTORY"},
+
+{"descriptionCam":"ViaSat Nature est une chaîne télévisée spécialisée au documentaires et autres.","sourceCam":["http://84.54.148.38/VIASAT_NATURE_SD/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODk1MDM5ODlf/viasathistory.png","titleCam":"VIASAT NATURE"},
 
 {"descriptionCam":"SEASONS Tv est une chaîne télévisée spécialisée au documentaires et autres.","sourceCam":["https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg","titleCam":"SEASONS TV"},
 
