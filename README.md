@@ -1,5 +1,7 @@
 # divertissement
-{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"CBS Reality est une chaîne télévisée spécialisée aux Documentaires Border Patrol et autres.","sourceCam":["http://84.54.148.38/CBS_REALITY_SD/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTM3ODEzMzJf/cbs.jpeg","titleCam":"CBS REALITY"},
+{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"Discovery est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://151.248.16.100:4444/DiscoveryScience/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg","titleCam":"DISCOVERY HD"},
+
+{"descriptionCam":"CBS Reality est une chaîne télévisée spécialisée aux Documentaires Border Patrol et autres.","sourceCam":["http://84.54.148.38/CBS_REALITY_SD/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTM3ODEzMzJf/cbs.jpeg","titleCam":"CBS REALITY"},
 
 {"descriptionCam":"TLC est une chaîne télévisée spécialisée au Divertissements et autres.","sourceCam":["https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI3Mzhf/tlc.png","titleCam":"TLC"},
 
