@@ -31,7 +31,7 @@
 
 {"descriptionCam":"Crime Invest Tv est une chaîne télévisée spécialisée aux crimes Divertissements et autres.","sourceCam":["https://alliantcontent-truecrimenow-3-nz.samsung.wurl.tv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM1Mjg3NjVf/CrimeInvestigation.png","titleCam":"CRIME INVEST TV"},
 
-{"descriptionCam":"Rmc Decouverte Tv est une chaîne télévisée spécialisée aux crimes Divertissements et autres.","sourceCam":["http://162.19.18.141:49214/RMC_STORY/hls/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODk1MDM5OTNf/rmcdecouverte.jpeg","titleCam":"RMC HISTORY"},
+{"descriptionCam":"Real Life est une chaîne télévisée spécialisée aux crimes Divertissements et autres.","sourceCam":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4335"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODk1MDM5OTNf/rmcdecouverte.jpeg","titleCam":"REAL LIFE"},
 
 {"descriptionCam":"Discovery Turbo est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["https://youzontv-app.tk/discovery%2B/Discovery_Turbo.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI1MTRf/discoverturbo.jpg","titleCam":"DISCOVERY TURBO"},
 
