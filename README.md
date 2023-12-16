@@ -3,9 +3,11 @@
 
 {"descriptionCam":"Discovery est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://195.181.169.162:80/US_Discovery/tracks-v1a1/mono.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg","titleCam":"DISCOVERY HD"},
 
-{"descriptionCam":"CBS Reality est une chaîne télévisée spécialisée aux Documentaires Border Patrol et autres.","sourceCam":["http://84.54.148.38/CBS_REALITY_SD/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTM3ODEzMzJf/cbs.jpeg","titleCam":"CBS REALITY"},
+{"descriptionCam":"CBS Reality est une chaîne télévisée spécialisée aux Documentaires Border Patrol et autres.","sourceCam":["http://92.114.85.81:8000/play/a01t/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTM3ODEzMzJf/cbs.jpeg","titleCam":"CBS REALITY"},
 
-{"descriptionCam":"CBS Reality est une chaîne télévisée spécialisée aux Documentaires Border Patrol et autres.","sourceCam":["http://185.188.188.235/live/cbsreality/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTM3ODEzMzJf/cbs.jpeg","titleCam":"CBS REALITY 2"},
+{"descriptionCam":"CBS Reality est une chaîne télévisée spécialisée aux Documentaires Border Patrol et autres.","sourceCam":["http://92.114.85.81:8000/play/a01s/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTM3ODEzMzJf/cbs.jpeg","titleCam":"CBS REALITY 2"},
+
+{"descriptionCam":"CBS Reality est une chaîne télévisée spécialisée aux Documentaires Border Patrol et autres.","sourceCam":["http://92.114.85.81:8000/play/a01u/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTM3ODEzMzJf/cbs.jpeg","titleCam":"CBS REALITY PLUS"},
 
 {"descriptionCam":"TLC est une chaîne télévisée spécialisée au Divertissements et autres.","sourceCam":["https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI3Mzhf/tlc.png","titleCam":"TLC"},
 
