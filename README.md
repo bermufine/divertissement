@@ -1,9 +1,9 @@
 # divertissement
-{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"Discovery est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://178.124.201.31:28383/channel/4fe60881/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg","titleCam":"DISCOVERY HD"},
+{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"Discovery est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://145.255.192.25/DISCOVERY_HD/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg","titleCam":"DISCOVERY HD"},
 
 {"descriptionCam":"Discovery est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://168.227.22.18:1935/live/mobile-006/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg","titleCam":"DISCOVERY HD"},
 
-{"descriptionCam":"Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["https://youzontv-app.tk/discovery%2B/Discovery_Science.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI0ODJf/discoverscience.png","titleCam":"DISCOVERY SCIENCE"},
+{"descriptionCam":"Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://38.96.178.201/live/Discovery/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI0ODJf/discoverscience.png","titleCam":"DISCOVERY SCIENCE"},
 
 {"descriptionCam":"Discovery Turbo est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["https://youzontv-app.tk/discovery%2B/Discovery_Turbo.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI1MTRf/discoverturbo.jpg","titleCam":"DISCOVERY TURBO"},
 
