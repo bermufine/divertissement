@@ -23,7 +23,7 @@
 
 {"descriptionCam":"Discovery Turbo est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://186.237.99.10/DISCOVERY_TURBO_HD/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI1MTRf/discoverturbo.jpg","titleCam":"DISCOVERY TURBO 4"},
 
-{"descriptionCam":"CBS Reality est une chaîne télévisée spécialisée aux Documentaires Border Patrol et autres.","sourceCam":["http://92.114.85.81:8000/play/a01t/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTM3ODEzMzJf/cbs.jpeg","titleCam":"CBS REALITY"},
+{"descriptionCam":"Investigation discovery est une chaîne télévisée spécialisée aux Documentaires Border Patrol et autres.","sourceCam":["http://136.175.8.181:18000/065f55e5000448869547c8d24da0b999/hls/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTM3ODEzMzJf/cbs.jpeg","titleCam":"INVESTGATION DISCOVERY"},
 
 {"descriptionCam":"CBS Reality est une chaîne télévisée spécialisée aux Documentaires Border Patrol et autres.","sourceCam":["http://92.114.85.81:8000/play/a01s/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTM3ODEzMzJf/cbs.jpeg","titleCam":"CBS REALITY 2"},
 
