@@ -1,9 +1,9 @@
 # divertissement
-{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://38.96.178.201/live/Discovery/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI0ODJf/discoverscience.png","titleCam":"DISCOVERY SCIENCE"},
+{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://168.227.22.18:1935/live/mobile-006/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI0ODJf/discoverscience.png","titleCam":"DISCOVERY CHANNEL"},
 
 {"descriptionCam":"Discovery est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://145.255.192.25/DISCOVERY_HD/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg","titleCam":"DISCOVERY HD"},
 
-{"descriptionCam":"Discovery est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://168.227.22.18:1935/live/mobile-006/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg","titleCam":"DISCOVERY HD"},
+{"descriptionCam":"Discovery est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://168.227.22.18:1935/live/mobile-006/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg","titleCam":"DISCOVERY TV"},
 
 {"descriptionCam":"Discovery Turbo est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://168.227.22.18:1935/live/mobile-109/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI1MTRf/discoverturbo.jpg","titleCam":"DISCOVERY TURBO"},
 
@@ -27,7 +27,9 @@
 
 {"descriptionCam":"CBS Reality est une chaîne télévisée spécialisée aux Documentaires Border Patrol et autres.","sourceCam":["http://92.114.85.81:8000/play/a01s/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTM3ODEzMzJf/cbs.jpeg","titleCam":"CBS REALITY 2"},
 
-{"descriptionCam":"CBS Reality est une chaîne télévisée spécialisée aux Documentaires Border Patrol et autres.","sourceCam":["http://92.114.85.81:8000/play/a01u/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTM3ODEzMzJf/cbs.jpeg","titleCam":"CBS REALITY PLUS"}]}]}
+{"descriptionCam":"CBS Reality est une chaîne télévisée spécialisée aux Documentaires Border Patrol et autres.","sourceCam":["http://92.114.85.81:8000/play/a01u/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTM3ODEzMzJf/cbs.jpeg","titleCam":"CBS REALITY PLUS"},
+
+{"descriptionCam":"Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://38.96.178.201/live/Discovery/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI0ODJf/discoverscience.png","titleCam":"DISCOVERY SCIENCE"}]}]}
 
 
 
@@ -51,6 +53,6 @@
 
 {"descriptionCam":"Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["https://sc.id-tv.kz:443/Disc_chHD_34_35.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI0ODJf/discoverscience.png","titleCam":"DISCOVERY SCIENCE 2"},
 
-{"descriptionCam":"Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://84.54.148.38/DISCOVERY_CHANNEL_SD/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg","titleCam":"DISCOVERY CHANNEL"},
+
 
 {"descriptionCam":"Discovery est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://185.188.188.235/live/discovery/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg","titleCam":"DISCOVERY HD"},
