@@ -1,7 +1,7 @@
 # divertissement
-{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"Discovery est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://185.177.125.251:8080/discovery/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI3Mzhf/tlc.png","titleCam":"DISCOVERY TV"},
+{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"TLC est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://185.177.125.251:8080/discovery/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI3Mzhf/tlc.png","titleCam":"TLC TV"},
 
-{"descriptionCam":"Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://168.227.22.18:1935/live/mobile-006/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI0ODJf/discoverscience.png","titleCam":"DISCOVERY CHANNEL"},
+{"descriptionCam":"Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.","sourceCam":["http://45.90.106.7:8780/play/TdBm8140P6@E4N/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTI0ODJf/discoverscience.png","titleCam":"DISCOVERY CHANNEL"},
 
 {"descriptionCam":"Investigation discovery est une chaîne télévisée spécialisée aux Documentaires Border Patrol et autres.","sourceCam":["http://185.177.125.251:8080/investigationdiscovery/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleCam":"INVESTGATION DISC"},
 
